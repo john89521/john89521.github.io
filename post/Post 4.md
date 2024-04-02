@@ -3,13 +3,20 @@ title: Post 4
 layout: home
 ---
 
-# Placeholder for first Post 4  
+# How to deploy
 
-This is a copy of Post 3. I need to create a templat md file.  
+```mermaid 
+Flowchart TD
+	A[Deploy to production] --> B{Is it Friday?};
+	B -- Yes --> C[Do not deploy!];
+	B -- No --> D[Run deploy.sh to deploy!];
+	C ----> E[Enjoy your weekend!];
+	D ----> E[Enjoy your weekend!];
+```
 
-This is created in the web browser. It works but it does take some getting used to.  
+[GitHub blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)  
+[Mermaid website](https://mermaid.js.org/)
 
-I need to create a PR so this file gets into the upstream.  
 
 
 
