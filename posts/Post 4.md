@@ -21,6 +21,7 @@ sequenceDiagram
 
 
 [GitHub blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)  
+<a href="https:github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/" target="_blank">GitHub blog<a/>
 
 **NOTE:** The link below is written just like in HTML  
 <a href="https://mermaid.js.org/" target="_blank">Mermaid website</a>
