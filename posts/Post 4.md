@@ -1,11 +1,11 @@
 ---
-title: Node with text
+title: Post 4
 layout: home
 ---  
 
 
 
-# How to deploy
+# Trying out Mermaid Code  
 
 
 Flowchart TD
@@ -17,6 +17,7 @@ Flowchart TD
 
 
 [GitHub blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)  
+
 **NOTE:** The link below is written just like in HTML  
 <a href="https://mermaid.js.org/" target="_blank">Mermaid website</a>
 
