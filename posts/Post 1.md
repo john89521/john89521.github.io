@@ -11,9 +11,10 @@ This will eventually be a blog post, but for right now it is just a placeholder.
 
 This line was created in the GH .dev window. This is what I will use for the Lubuntu computer. Instead of putting VS Code on the Lubuntu, I will just use the web developer UI.  
 
-I think the browser dev saves automatically.  
+I think the browser dev saves automatically. It does - I configured VS Code to perform that function. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+
+4/5/2024 - I need to learn how to use Mermaid.  
 
 ----
 
