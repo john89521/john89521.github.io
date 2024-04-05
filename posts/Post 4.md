@@ -15,7 +15,7 @@ Flowchart TD
 ```
 
 [GitHub blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)  
-[Mermaid website](https://mermaid.js.org/)  
+**NOTE:** The link below is written just like in HTML  
 <a href="https://mermaid.js.org/" target="_blank">Mermaid website</a>
 
 
