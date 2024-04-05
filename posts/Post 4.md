@@ -1,6 +1,8 @@
 ---
 title: Node with text
----
+layout: home
+---  
+
 flowchart LR
     id1[This is the text in the box]
 
