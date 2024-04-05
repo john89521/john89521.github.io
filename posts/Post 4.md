@@ -7,13 +7,12 @@ layout: home
 
 # Trying out Mermaid Code  
 
-
-Flowchart TD
-	A[Deploy to production] --> B{Is it Friday?};
-	B -- Yes --> C[Do not deploy!];
-	B -- No --> D[Run deploy.sh to deploy!];
-	C ----> E[Enjoy your weekend!];
-	D ----> E[Enjoy your weekend!];
+flowchart TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
 
 
 [GitHub blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)  
