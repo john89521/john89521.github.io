@@ -1,5 +1,5 @@
 ---
-title: Directions  
+title: Z-Directions  
 layout: home
 ---
 
