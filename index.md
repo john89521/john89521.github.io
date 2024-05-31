@@ -3,6 +3,9 @@ title: Home
 layout: home
 ---
 # Greetings  
+
+This site is just practice for GitHub Pages. There is no subject or theme to the posts on this site. I just need content to post and mess with. I am not overly keen on the organization of the  posts. Right now I am using the date, but eventually I will have to sections.   
+
 The directions to this template are in the [directions.md](https://john89521.github.io/directions.html) file.
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. 
@@ -16,6 +19,7 @@ The flow for this template:
 1. Make commits in GH Desktop. The **Push origin** button appears. 
 1. It takes about a minute for the Actions to run and incorporate the changes.  
 1. After Actions runs and green check marks display, refresh the web site to show changes.  
+_NOTE_: I love GitHub Desktop for this flow. It takes care of the pushing (and pulling if needed) with ease. 
 
 The finished product of this template is quite nice. [See it here](https://just-the-docs.com).  
 
