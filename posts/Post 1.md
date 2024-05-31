@@ -1,20 +1,30 @@
 ---
-title: Post 1  
+title: May 31 2024  
 layout: home
 ---
 
-# Placeholder for first Post   
+# How to Make Sourdough Bread at Home  
 
-This will eventually be a blog post, but for right now it is just a placeholder.   
+I want to get this out of the way up front. Making sourdough bread is easy. It contains 4 ingredients: flour, starter, salt, and water. Mix it up, let it rise twice, bake it, and it is ready for consumption. It really is that easy.  
 
-3/31/2024 - I have not worked on this repo for a while and now I have to figure it out again. That is the problem with coding in general - you must work on coding everyday so it sticks in your long term memory.  
+Google it and you will get 22 million results. So making sourdough bread is actually easy. It’s the perfecting your sourdough loaf where the process gets difficult.  
 
-This line was created in the GH .dev window. This is what I will use for the Lubuntu computer. Instead of putting VS Code on the Lubuntu, I will just use the web developer UI.  
+But you are going to need a starter. You can make one yourself or buy some off the internet. I suggest you try both. You can find the recipe at King Arthur Baking and you can buy some of their starter from the shop on the King Arthur Baking site.  
 
-I think the browser dev saves automatically. It does - I configured VS Code to perform that function. 
+You might run into a recipe that says measure out each ingredient. You can do that if you want and I sometimes still do. However, there are times I just want fresh bread so I will put the following in a bowl:  
+1 Tablespoons of starter (at its peak bubbly). 1.5 teaspoons of salt. 1.5 cups of water. Mix that up. Then add 3 cups of flour. Mix it up and proof it twice (double in size is a good measure or close to double in size). I bake mine for about 42 to 45 minutes at 450 degrees. I like to let it cool for one hour, but if I need that bread fix then I’ll cut into it after 20 minutes. I promise you this, you will get bread from that simple recipe. Some folks say you don’t even need to knead the dough. I disagree with that and I like to work it a little. You can go all crazy and knead for 8 minutes if you want, but I just make sure all the ingredients are incorporated. You can even use a Kitchen Aid mixer if you want - that gets the mixing done fast.  
+
+Now I don’t want any gurus or so called experts chiming in and saying I need to do this or that, because like I said, this is a simple recipe. It will yield bread and freshly baked bread is always fantastic.  
+
+The true art of bread making comes after you make your first loaf. After that first one is under your suspenders, you have experienced the steps of making sourdough bread and can then start tweaking your method. /And tweaking you will do! You will start buying high grade flour, spring water, tools, bread baking books, pots, and other items that help make your bread one step better than the previous loaf.  
+
+You’ll start scouring YouTube for every bread making video posted, only to realize that it still comes down to flour, starter, salt, and water. But you will still scour the internet. You get so you’ll watch videos in other languages to see if you can pick up a tip or two. You’ll get to the point where you can critically review the video and decide if you want to share your opinion in the comment section.  
+
+Don’t be hard on yourself with your new hobby. It is worthy of every minute you invest into it and continues to pay dividends with every new loaf pulled from the oven.  
+
+Go ahead churn out the loaves. You can always give some away to the neighbors or family members. You can always make croutons with the leftovers. Don’t worry about baking too much - just bake as much and as often as you like.  
 
 
-4/5/2024 - I need to learn how to use Mermaid.  
 
 ----
 
